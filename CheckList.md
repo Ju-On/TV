@@ -4,7 +4,7 @@ WIN 2022 build
 Python 3.X installed  
 Flask Libary installed  
 webhook_server.pty installed / configured to listen on port TCP 80  
-webgook server is functional  
+webhook server is functional  
 Accepted: 3389 80 443 
 
 -TO DO-
